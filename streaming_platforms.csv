@@ -1,0 +1,23 @@
+platform,label,keywords,exclude_keywords,logo_url,website_url
+netflix,Netflix,netflix,,https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg,https://www.netflix.com
+hulu,Hulu,hulu,,https://image.tmdb.org/t/p/w92/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg,https://www.hulu.com
+prime_video,Prime Video,prime video,,https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg,https://www.primevideo.com
+hbo_max,HBO Max,hbo max,,https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg,https://www.max.com
+peacock,Peacock,peacock,,https://image.tmdb.org/t/p/w92/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg,https://www.peacocktv.com
+paramount_plus,Paramount+,paramount,,https://image.tmdb.org/t/p/w92/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg,https://www.paramountplus.com
+apple_tv,Apple TV,apple tv,channel,https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg,https://tv.apple.com
+youtube_tv,YouTube TV,youtube tv,,https://image.tmdb.org/t/p/w92/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg,https://tv.youtube.com
+fubotv,fuboTV,fubo,,https://image.tmdb.org/t/p/w92/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg,https://www.fubo.tv
+disney_plus,Disney Plus,disney,,https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg,https://www.disneyplus.com
+philo,Philo,philo,,https://image.tmdb.org/t/p/w92/ptmbGSttkyzawLbxx9MElmxKuVo.jpg,https://www.philo.com
+mgm_plus,MGM+,mgm,,https://image.tmdb.org/t/p/w92/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg,https://www.mgmplus.com
+amc_plus,AMC+,amc,,https://image.tmdb.org/t/p/w92/ovmu6uot1XVvsemM2dDySXLiX57.jpg,https://www.amcplus.com
+starz,Starz,starz,,https://image.tmdb.org/t/p/w92/yIKwylTLP1u8gl84Is7FItpYLGL.jpg,https://www.starz.com
+criterion_channel,Criterion Channel,criterion,,https://image.tmdb.org/t/p/w92/yhrtzYd43pFIhRq0ruO8umJPuyn.jpg,https://www.criterionchannel.com
+shudder,Shudder,shudder,,https://image.tmdb.org/t/p/w92/vEtdiYRPRbDCp1Tcn3BEPF1Ni76.jpg,https://www.shudder.com
+sundance_now,Sundance Now,sundance,,https://image.tmdb.org/t/p/w92/1Edma9SrJnqkQW3BqFd2rJNHZvX.jpg,https://www.sundancenow.com
+mubi,MUBI,mubi,,https://image.tmdb.org/t/p/w92/x570VpH2C9EKDf1riP83rYc5dnL.jpg,https://mubi.com
+tcm,TCM,tcm,,https://image.tmdb.org/t/p/w92/8SIxng8eznACvCTRsN1FZfd5Ycg.jpg,https://www.tcm.com
+britbox,BritBox,britbox,,https://image.tmdb.org/t/p/w92/8oA7IcDNNUtBa9JYB5kQ8hrDz5o.jpg,https://www.britbox.com
+curiositystream,CuriosityStream,curiosity,,https://image.tmdb.org/t/p/w92/oR1aNm1Qu9jQBkW4VrGPWhqbC3P.jpg,https://www.curiositystream.com
+cinemax,Cinemax,cinemax,,https://image.tmdb.org/t/p/w92/ohcwolMl8E743CkS8MnhmJKOlRj.jpg,https://www.cinemax.com
